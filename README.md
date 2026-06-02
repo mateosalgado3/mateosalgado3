@@ -1,98 +1,133 @@
-# Hi, I'm Mateo Salgado 👋
+# Mateo Salgado
 
-## Computer Science Engineering Student | Data Scientist | AI Enthusiast
+### Computer Science Engineering Student | Data Scientist | AI & Software Developer
 
-I am a Computer Science Engineering student passionate about building intelligent systems, developing software, and solving real-world problems through data and machine learning.
-
-### Areas of Interest
-
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- Software Engineering
-- Algorithms & Data Structures
-- Cloud Computing
-- Data Engineering
+🔗 linkedin.com/in/mateosalgado3 | 🌐 p.mateo.salgado.3@gmail.com
 
 ---
 
-## Tech Stack
+# Professional Summary
+
+Computer Science Engineering student focused on Data Science, Artificial Intelligence, Machine Learning, and Software Engineering. Experienced in designing end-to-end analytical solutions, predictive models, and data pipelines that transform raw data into actionable insights.
+
+Passionate about building intelligent systems, developing scalable software solutions, and applying data-driven decision-making to solve real-world business challenges.
+
+### Key Impact Highlights
+
+* Developed predictive models for customer churn and credit default risk
+* Built machine learning systems for financial market forecasting
+* Designed ETL pipelines using Snowflake and Mage AI
+* Applied data science methodologies to business and marketing analytics projects
+
+---
+
+# Featured Technical Projects (Proof of Execution)
+
+Case studies of technical and analytical projects developed throughout my academic and professional journey. Each project demonstrates practical application of machine learning, data engineering, software development, and business analytics principles.
+
+---
+
+## 📈 Stock Market Prediction System (Machine Learning Project)
+
+A predictive analytics framework designed to forecast market trends using historical financial data, technical indicators, and machine learning algorithms.
+
+**Skills:** Machine Learning · Python · Financial Analytics · Feature Engineering · Time Series Analysis · Data Visualization
+
+**Impact:** Improved understanding of market behavior and predictive modeling techniques through real-world financial datasets.
+
+📄 View Project Artifacts
+
+---
+
+## 📊 Customer Churn Prediction Platform (Data Science Project)
+
+A machine learning solution focused on identifying customers at risk of leaving a service, enabling proactive retention strategies.
+
+**Skills:** Classification Models · Scikit-Learn · Data Cleaning · Exploratory Data Analysis · Business Analytics
+
+**Impact:** Demonstrated how predictive analytics can support customer retention and business decision-making.
+
+📄 View Project Artifacts
+
+---
+
+## ☁️ Snowflake ETL Pipeline & Data Warehouse Architecture (Data Engineering Project)
+
+Designed and implemented a modern ETL workflow using Snowflake and Mage AI to automate data ingestion, transformation, and reporting processes.
+
+**Skills:** Snowflake · SQL · Data Warehousing · ETL Design · Mage AI · Data Modeling
+
+**Impact:** Created a scalable architecture for efficient data processing and analytics.
+
+📄 View Project Artifacts
+
+---
+
+## 💳 Credit Default Risk Prediction (Machine Learning Project)
+
+Developed predictive models to assess loan default probability using supervised learning techniques and financial datasets.
+
+**Skills:** Predictive Modeling · Feature Selection · Classification Algorithms · Data Analysis · Python
+
+**Impact:** Demonstrated the practical application of AI in financial risk assessment.
+
+📄 View Project Artifacts
+
+---
+
+# Strategic Research & Innovation (Proof of Vision)
+
+Projects and concepts exploring the future of Artificial Intelligence, Data Science, and intelligent software systems.
+
+---
+
+## 🤖 AI-Powered Decision Support Systems
+
+Research and experimentation on intelligent systems that combine machine learning, automation, and human-centered design to improve decision-making processes.
+
+**Skills:** Artificial Intelligence · Systems Thinking · Research & Development · Human-Centered Design
+
+📄 View Project Artifacts
+
+---
+
+## 🧠 Intelligent Multi-Agent Systems
+
+Exploration of autonomous AI agents capable of collaboration, task orchestration, and complex problem-solving workflows.
+
+**Skills:** AI Agents · LLM Applications · Prompt Engineering · System Architecture · Automation
+
+📄 View Project Artifacts
+
+---
+
+# Technical Skills
 
 ### Programming Languages
 
-- Python
-- Java
-- SQL
-- JavaScript
+Python · Java · SQL · JavaScript
 
-### Data Science & Machine Learning
+### Artificial Intelligence & Machine Learning
 
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow
-- PyTorch
-- XGBoost
+Scikit-Learn · TensorFlow · PyTorch · XGBoost · Pandas · NumPy
 
 ### Data Engineering & Cloud
 
-- Snowflake
-- Mage AI
-- ETL Pipelines
-- Google Cloud Platform
+Snowflake · ETL Pipelines · Mage AI · Google Cloud Platform
 
-### Development Tools
+### Software Engineering
 
-- Git
-- GitHub
-- Docker
-- Linux
+Git · GitHub · Linux · Docker · Object-Oriented Programming
 
 ---
 
-## Featured Projects
+# Education
 
-### 📈 Stock Market Prediction
+**Bachelor's Degree in Computer Science Engineering**
 
-Machine Learning models for predicting stock market trends using historical financial data and technical indicators.
+Focused on Artificial Intelligence, Data Science, Algorithms, Software Development, and Systems Engineering.
 
-### 📊 Customer Churn Prediction
-
-End-to-end data science project focused on predicting customer attrition and improving business retention strategies.
-
-### ☁️ Snowflake ETL Pipeline
-
-Data engineering solution using Snowflake and Mage AI to automate data ingestion, transformation, and analysis.
-
-### 💳 Credit Default Prediction
-
-Predictive analytics project for identifying potential loan defaults using classification models.
 
 ---
 
-## Current Focus
-
-- Deep Learning
-- MLOps
-- System Design
-- Scalable Data Pipelines
-- Advanced Algorithms
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateosalgado3&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateosalgado3&layout=compact&theme=github_dark)
-
----
-
-## Connect With Me
-
-- LinkedIn: www.linkedin.com/in/mateosalgado3
-- Email: p.mateo.salgado.23@gmail.com
-
----
-
-> "Building technology that transforms data into decisions."
+Additional projects available on request. Current work includes Machine Learning, Data Engineering, Artificial Intelligence, and Software Development initiatives.
