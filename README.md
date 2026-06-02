@@ -99,33 +99,6 @@ Exploration of autonomous AI agents capable of collaboration, task orchestration
 
 📄 View Project Artifacts
 
----
-
-# Technical Skills
-
-### Programming Languages
-
-Python · Java · SQL · JavaScript
-
-### Artificial Intelligence & Machine Learning
-
-Scikit-Learn · TensorFlow · PyTorch · XGBoost · Pandas · NumPy
-
-### Data Engineering & Cloud
-
-Snowflake · ETL Pipelines · Mage AI · Google Cloud Platform
-
-### Software Engineering
-
-Git · GitHub · Linux · Docker · Object-Oriented Programming
-
----
-
-# Education
-
-**Bachelor's Degree in Computer Science Engineering**
-
-Focused on Artificial Intelligence, Data Science, Algorithms, Software Development, and Systems Engineering.
 
 
 ---
