@@ -1,18 +1,18 @@
-# Mateo Salgado
+## Mateo Salgado
 
-### Computer Science Engineering Student | Data Scientist | AI & Software Developer
+#### Computer Science Engineering Student | Data Scientist | AI & Software Developer
 
 🔗 linkedin.com/in/mateosalgado3 | 🌐 p.mateo.salgado.3@gmail.com
 
 ---
 
-# Professional Summary
+### Professional Summary
 
 Computer Science Engineering student focused on Data Science, Artificial Intelligence, Machine Learning, and Software Engineering. Experienced in designing end-to-end analytical solutions, predictive models, and data pipelines that transform raw data into actionable insights.
 
 Passionate about building intelligent systems, developing scalable software solutions, and applying data-driven decision-making to solve real-world business challenges.
 
-### Key Impact Highlights
+#### Key Impact Highlights
 
 * Developed predictive models for customer churn and credit default risk
 * Built machine learning systems for financial market forecasting
@@ -21,13 +21,13 @@ Passionate about building intelligent systems, developing scalable software solu
 
 ---
 
-# Featured Technical Projects (Proof of Execution)
+## Featured Technical Projects with Strategic Research & Innovation (Proof of Execution)
 
 Case studies of technical and analytical projects developed throughout my academic and professional journey. Each project demonstrates practical application of machine learning, data engineering, software development, and business analytics principles.
 
 ---
 
-## 📈 Stock Market Prediction System (Machine Learning Project)
+### 📈 Stock Market Prediction System (Machine Learning Project)
 
 A predictive analytics framework designed to forecast market trends using historical financial data, technical indicators, and machine learning algorithms.
 
@@ -39,7 +39,7 @@ A predictive analytics framework designed to forecast market trends using histor
 
 ---
 
-## 📊 Customer Churn Prediction Platform (Data Science Project)
+### 📊 Customer Churn Prediction Platform (Data Science Project)
 
 A machine learning solution focused on identifying customers at risk of leaving a service, enabling proactive retention strategies.
 
@@ -51,7 +51,7 @@ A machine learning solution focused on identifying customers at risk of leaving 
 
 ---
 
-## ☁️ Snowflake ETL Pipeline & Data Warehouse Architecture (Data Engineering Project)
+### ☁️ Snowflake ETL Pipeline & Data Warehouse Architecture (Data Engineering Project)
 
 Designed and implemented a modern ETL workflow using Snowflake and Mage AI to automate data ingestion, transformation, and reporting processes.
 
@@ -63,7 +63,7 @@ Designed and implemented a modern ETL workflow using Snowflake and Mage AI to au
 
 ---
 
-## 💳 Credit Default Risk Prediction (Machine Learning Project)
+### 💳 Credit Default Risk Prediction (Machine Learning Project)
 
 Developed predictive models to assess loan default probability using supervised learning techniques and financial datasets.
 
@@ -72,33 +72,6 @@ Developed predictive models to assess loan default probability using supervised 
 **Impact:** Demonstrated the practical application of AI in financial risk assessment.
 
 📄 View Project Artifacts
-
----
-
-# Strategic Research & Innovation (Proof of Vision)
-
-Projects and concepts exploring the future of Artificial Intelligence, Data Science, and intelligent software systems.
-
----
-
-## 🤖 AI-Powered Decision Support Systems
-
-Research and experimentation on intelligent systems that combine machine learning, automation, and human-centered design to improve decision-making processes.
-
-**Skills:** Artificial Intelligence · Systems Thinking · Research & Development · Human-Centered Design
-
-📄 View Project Artifacts
-
----
-
-## 🧠 Intelligent Multi-Agent Systems
-
-Exploration of autonomous AI agents capable of collaboration, task orchestration, and complex problem-solving workflows.
-
-**Skills:** AI Agents · LLM Applications · Prompt Engineering · System Architecture · Automation
-
-📄 View Project Artifacts
-
 
 
 ---
