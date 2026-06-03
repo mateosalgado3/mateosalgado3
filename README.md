@@ -1,4 +1,4 @@
-## Mateo Salgado
+# Mateo Salgado
 
 #### Computer Science Engineering Student | Data Scientist | AI & Software Developer
 
